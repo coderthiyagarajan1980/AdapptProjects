@@ -1,0 +1,118 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://tfs-glo-lnuk-cs.visualstudio.com/DefaultCollection/Team%20Innovare/_git/create-add-in
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[branch "feature/Create_CIMerge"]
+	remote = origin
+	merge = refs/heads/feature/Create_CIMerge
+[branch "feature/LatestCreatewithCIMerged"]
+	remote = origin
+	merge = refs/heads/feature/LatestCreatewithCIMerged
+[branch "feature/Create_CIMergeCodeRefactoring"]
+	remote = origin
+	merge = refs/heads/feature/Create_CIMergeCodeRefactoring
+[branch "develop"]
+	remote = origin
+	merge = refs/heads/develop
+[branch "TaskID_379647"]
+	remote = origin
+	merge = refs/heads/TaskID_379647
+[branch "TaskID_377467"]
+	remote = origin
+	merge = refs/heads/TaskID_377467
+[branch "MergedRuleEngineAndSneppit"]
+	remote = origin
+	merge = refs/heads/MergedRuleEngineAndSneppit
+[branch "TaskID_379667"]
+	remote = origin
+	merge = refs/heads/TaskID_379667
+[branch "feature/ContextMenuWork"]
+	remote = origin
+	merge = refs/heads/feature/ContextMenuWork
+[branch "TaskID_379607"]
+	remote = origin
+	merge = refs/heads/TaskID_379607
+[branch "TaskID_379855"]
+	remote = origin
+	merge = refs/heads/TaskID_379855
+[branch "EndlessSpinnerCheck"]
+	remote = origin
+	merge = refs/heads/EndlessSpinnerCheck
+[branch "lmo-integration"]
+	remote = origin
+	merge = refs/heads/lmo-integration
+[branch "RedactionFixes"]
+	remote = origin
+	merge = refs/heads/RedactionFixes
+[branch "TaskID_380023"]
+	remote = origin
+	merge = refs/heads/TaskID_380023
+[branch "TaskID_380133"]
+	remote = origin
+	merge = refs/heads/TaskID_380133
+[branch "Task_XMLParsinginRedact"]
+	remote = origin
+	merge = refs/heads/Task_XMLParsinginRedact
+[branch "TaskID_380223"]
+	remote = origin
+	merge = refs/heads/TaskID_380223
+[branch "IEtoEdgeDocuSignModification"]
+	remote = origin
+	merge = refs/heads/IEtoEdgeDocuSignModification
+[branch "TaskID_380293"]
+	remote = origin
+	merge = refs/heads/TaskID_380293
+[branch "TaskID_380223_New"]
+	remote = origin
+	merge = refs/heads/TaskID_380223_New
+[branch "DocusignTempFix"]
+	remote = origin
+	merge = refs/heads/DocusignTempFix
+[branch "DocuSignWorkforTempFix"]
+	remote = origin
+	merge = refs/heads/DocuSignWorkforTempFix
+[branch "TaskID_380450"]
+	remote = origin
+	merge = refs/heads/TaskID_380450
+[branch "FilterIssueFixInSnipModel"]
+	remote = origin
+	merge = refs/heads/FilterIssueFixInSnipModel
+[branch "RedactHighlightIssue"]
+	remote = origin
+	merge = refs/heads/RedactHighlightIssue
+[branch "FixedSnippetFilterIssues"]
+	remote = origin
+	merge = refs/heads/FixedSnippetFilterIssues
+[branch "TaskID_380570"]
+	remote = origin
+	merge = refs/heads/TaskID_380570
+[branch "BugFixesFor_1_9_0"]
+	remote = origin
+	merge = refs/heads/BugFixesFor_1_9_0
+[branch "origin/feature/VSTOShellPoC"]
+	remote = origin
+	merge = refs/heads/origin/feature/VSTOShellPoC
+[branch "origin/feature/VSTOShellPoC_ReactAppChanges"]
+	remote = origin
+	merge = refs/heads/origin/feature/VSTOShellPoC_ReactAppChanges
+[branch "TaskID_380705"]
+	remote = origin
+	merge = refs/heads/TaskID_380705
+[branch "TaskID_380750"]
+	remote = origin
+	merge = refs/heads/TaskID_380750
+[branch "TaskID_380805"]
+	remote = origin
+	merge = refs/heads/TaskID_380805
+[branch "NormalDotmReadOnlyFix"]
+	remote = origin
+	merge = refs/heads/NormalDotmReadOnlyFix
